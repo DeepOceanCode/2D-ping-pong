@@ -30,7 +30,7 @@ The game ends when the score is 3 and returns to the beginning when the enter ke
 
 
 [Türkçe metin için tıklayınız.](urlkısmıburaya)
-
+[Oyunu indirmek için tıklayınız.](url)
 
 
 
