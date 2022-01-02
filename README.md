@@ -29,10 +29,10 @@ The game ends when the score is 3 and returns to the beginning when the enter ke
 
 
 
-[Türkçe metin için tıklayınız.](https://github.com/DeepOceanCode/2D-ping-pong/releases/tag/turkish)
+
 
 [Click to download the game.](https://github.com/DeepOceanCode/2D-ping-pong/releases/tag/Download)
 
-
+[Türkçe metin için tıklayınız.](https://github.com/DeepOceanCode/2D-ping-pong/releases/tag/turkish)
 
 *This game is produced by deep ocean code as a support and resource for beginner game developers.*
