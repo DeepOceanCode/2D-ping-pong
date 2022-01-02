@@ -21,7 +21,7 @@ A player downloading the 2D ping pong game;
 - Can make old arcade style nostalgia with lighting.
 - It can restart the game quickly, effortlessly.
 
-######Playing Instructions and General Description:
+###### Playing Instructions and General Description:
 The game consists of two players and a ball. Players prevent the ball from reaching their back by responding to the opposing player.
 Player 1 uses W-S keys for movement.
 Player 2 uses the up and down arrow keys for movement.
