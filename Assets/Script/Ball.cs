@@ -13,11 +13,11 @@ public class Ball : MonoBehaviour
     int Player1Score, Player2Score;
     public GameObject RestartPanel;
 
-    public AudioSource winAudio, ScoreAudio, BPContact;
+    public AudioSource  ScoreAudio, BPContact;
                                              // ball and player contact audio
     void Start()
     {
-        
+     
     }
 
     void Update()
@@ -75,14 +75,12 @@ public class Ball : MonoBehaviour
         // Who is won?
         if (Player1Score == 3)
         {
-            winAudio.Play();
             WinText.text = "Player 1 Won";
             Time.timeScale = 0;
             RestartPanel.SetActive(true);
         }
         else if (Player2Score==3)
         {
-            winAudio.Play();
             WinText.text = "Player 2 Won";
             Time.timeScale = 0;
             RestartPanel.SetActive(true);
