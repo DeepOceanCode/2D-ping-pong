@@ -1,5 +1,5 @@
-# 2D-ping-pong
-###### Your first game is here. Fun and simple 2D ping-pong.
+# 2D-Ping-Pong
+###### Your first game is here. Fun and simple 2D Ping-Pong.
 
 
 
@@ -16,7 +16,7 @@ A developer practicing **2D Ping Pong** game;
 - Can see an example of how to update the score in a game.
 - Can restart the game without creating a menu screen or restart button.
 
-A player downloading the 2D ping pong game;
+A player downloading the 2D Ping Pong game;
 - 2 player can enjoy the game.
 - Can make old arcade style nostalgia with lighting.
 - It can restart the game quickly, effortlessly.
