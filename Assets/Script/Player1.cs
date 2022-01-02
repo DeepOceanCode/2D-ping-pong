@@ -11,6 +11,7 @@ public class Player1 : MonoBehaviour
         Mov();
     }
 
+    // Player1 Movement
     void Mov()
     {
         if (Input.GetKey(KeyCode.W))

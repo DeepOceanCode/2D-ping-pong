@@ -10,7 +10,7 @@ public class Player2 : MonoBehaviour
     {
         Mov2();
     }
-
+    // Player 2 Movement
     void Mov2()
     {
         if(Input.GetKey(KeyCode.UpArrow))
