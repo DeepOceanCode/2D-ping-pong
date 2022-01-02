@@ -331,7 +331,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 371871494}
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 11.83, y: -0.13, z: 3.27943}
+  m_LocalPosition: {x: 11.31, y: -0.1, z: 3.27943}
   m_LocalScale: {x: 10.063244, y: 0.49695876, z: 1}
   m_Children: []
   m_Father: {fileID: 276907480}
@@ -555,7 +555,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 551613913}
   m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -6.45, y: -0.13, z: 3.27943}
+  m_LocalPosition: {x: -6, y: -0.1, z: 3.27943}
   m_LocalScale: {x: 10.063244, y: 0.49695876, z: 1}
   m_Children: []
   m_Father: {fileID: 276907480}
@@ -852,9 +852,9 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 90
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 0
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -2093,7 +2093,6 @@ MonoBehaviour:
   winAudio: {fileID: 1620269970731220435}
   ScoreAudio: {fileID: 988824050}
   BPContact: {fileID: 1153506892}
-  Background: {fileID: 0}
 --- !u!50 &1620269970731220431 stripped
 Rigidbody2D:
   m_CorrespondingSourceObject: {fileID: 1620269970012174309, guid: c8fa45fc66c019b4f8b5f17d5383f888, type: 3}
