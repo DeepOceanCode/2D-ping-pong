@@ -1,5 +1,7 @@
-# 2D-ping-pong
-###### Your first game is here. Fun and simple 2D ping-pong.
+![Ekran görüntüsü 2022-01-02 165151](https://user-images.githubusercontent.com/96946735/147877982-e35bdbcc-668c-48a5-9cbb-4055599b0d7e.png)
+![Ekran görüntüsü 2022-01-02 165246](https://user-images.githubusercontent.com/96946735/147877990-6a5c196f-54a7-42e0-8a98-413647a90011.png)
+# 2D-Ping-Pong
+###### Your first game is here. Fun and simple 2D Ping-Pong.
 
 
 
@@ -15,8 +17,9 @@ A developer practicing **2D Ping Pong** game;
 - It can provide access by assigning tags to objects.
 - Can see an example of how to update the score in a game.
 - Can restart the game without creating a menu screen or restart button.
+- May encounter Universal Render Pipeline example.
 
-A player downloading the 2D ping pong game;
+A player downloading the 2D Ping Pong game;
 - 2 player can enjoy the game.
 - Can make old arcade style nostalgia with lighting.
 - It can restart the game quickly, effortlessly.
@@ -29,9 +32,10 @@ The game ends when the score is 3 and returns to the beginning when the enter ke
 
 
 
-[Türkçe metin için tıklayınız.](urlkısmıburaya)
 
 
+[Click to download the game.](https://github.com/DeepOceanCode/2D-ping-pong/releases/tag/Download)
 
+[Türkçe metin için tıklayınız.](https://github.com/DeepOceanCode/2D-ping-pong/releases/tag/turkish)
 
 *This game is produced by deep ocean code as a support and resource for beginner game developers.*
